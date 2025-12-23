@@ -1,10 +1,20 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
+# NAME: A.SARANRAJ
+# REGISTER NO:25018567
 
 **AIM:**
 
 *To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
+
+<img width="394" height="231" alt="image" src="https://github.com/user-attachments/assets/c4f2ddda-622a-45d4-b2f8-5b836be265a9" />
+
+
+
+
+
+
 
 **SL.NO	APPARATUS	SPECIFICATION	QUANTITY**
 
@@ -22,6 +32,11 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+<img width="361" height="288" alt="image" src="https://github.com/user-attachments/assets/e762d4cc-9038-493f-ae27-6653d5004b66" />
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -36,7 +51,19 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+
+**MARK SLIPT**
+
+<img width="364" height="241" alt="image" src="https://github.com/user-attachments/assets/dfe6e7b0-01ce-4d67-b313-3da83b76038d" />
+
+
    **RESULT:**
+
+
+
+
+   <img width="394" height="225" alt="image" src="https://github.com/user-attachments/assets/3cad423b-e278-44d9-96b0-1d90dcdffc72" />
+
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
