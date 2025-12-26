@@ -1,10 +1,22 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
+#NAME:A.SARANRAJ
+
+#REGISTER NO:25018567
 
 **AIM:**
 
 *To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
+
+<img width="384" height="242" alt="image" src="https://github.com/user-attachments/assets/c8186f70-5b72-469b-ad2c-3a84e2235878" />
+
+
+
+
+
+
+
 
 **SL.NO	APPARATUS	SPECIFICATION	QUANTITY**
 
@@ -22,6 +34,24 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="336" height="258" alt="image" src="https://github.com/user-attachments/assets/cdbd9b0d-458d-4c6d-a439-2e93bc72aa99" />
+
+
+
+
+**TABULAR COLUMN**
+
+<img width="362" height="173" alt="image" src="https://github.com/user-attachments/assets/0fd0a9c8-4a0b-4563-be59-d076c670692e" />
+
+
+
+**CALCULATION**
+
+<img width="353" height="318" alt="image" src="https://github.com/user-attachments/assets/17ccfe9e-5fe5-449c-9e13-f84ee5f714b8" />
+
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -36,13 +66,27 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+
+
+**MARK SLIPT**
+
+<img width="358" height="228" alt="image" src="https://github.com/user-attachments/assets/5162cb0a-422d-4865-a7cc-d5064bde93ca" />
+
+
+
+
    **RESULT:**
+
+<img width="381" height="199" alt="image" src="https://github.com/user-attachments/assets/7db1ab00-774f-4b1d-9833-740f3004d551" />
+
+
+   
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	 1.22A.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	-4.29A.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	5.51A.
 
